@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gwp958qjmBOJdpO11H0x5Xftqqkj+hS9X0rrjDiZMk2rVjrh++OIAq/j8PpisAwz1Uzdp7Ft7Y5NXQXLFlzOHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omshi\\source\\repos\\MajorRoadStatus\\MajorRoadStatusSystem\\MajorRoadStatusSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omshi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\omshi\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\omshi\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\omshi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

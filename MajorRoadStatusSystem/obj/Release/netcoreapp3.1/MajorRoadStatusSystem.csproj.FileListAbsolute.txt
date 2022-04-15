@@ -1,0 +1,9 @@
+G:\Gopi\Doc\JTU\TFL\TFL\MajorRoadStatus\MajorRoadStatusSystem\bin\Release\netcoreapp3.1\MajorRoadStatusSystem.deps.json
+G:\Gopi\Doc\JTU\TFL\TFL\MajorRoadStatus\MajorRoadStatusSystem\bin\Release\netcoreapp3.1\MajorRoadStatusSystem.dll
+G:\Gopi\Doc\JTU\TFL\TFL\MajorRoadStatus\MajorRoadStatusSystem\bin\Release\netcoreapp3.1\MajorRoadStatusSystem.pdb
+G:\Gopi\Doc\JTU\TFL\TFL\MajorRoadStatus\MajorRoadStatusSystem\obj\Release\netcoreapp3.1\MajorRoadStatusSystem.AssemblyInfoInputs.cache
+G:\Gopi\Doc\JTU\TFL\TFL\MajorRoadStatus\MajorRoadStatusSystem\obj\Release\netcoreapp3.1\MajorRoadStatusSystem.AssemblyInfo.cs
+G:\Gopi\Doc\JTU\TFL\TFL\MajorRoadStatus\MajorRoadStatusSystem\obj\Release\netcoreapp3.1\MajorRoadStatusSystem.csproj.CoreCompileInputs.cache
+G:\Gopi\Doc\JTU\TFL\TFL\MajorRoadStatus\MajorRoadStatusSystem\obj\Release\netcoreapp3.1\MajorRoadStatusSystem.dll
+G:\Gopi\Doc\JTU\TFL\TFL\MajorRoadStatus\MajorRoadStatusSystem\obj\Release\netcoreapp3.1\MajorRoadStatusSystem.pdb
+G:\Gopi\Doc\JTU\TFL\TFL\MajorRoadStatus\MajorRoadStatusSystem\obj\Release\netcoreapp3.1\MajorRoadStatusSystem.csprojAssemblyReference.cache
